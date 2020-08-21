@@ -1,2 +1,1 @@
-# yinuohan.github.io
-This is a GitHub Page. 
+This is a GitHub Page: yinuohan.github.io
