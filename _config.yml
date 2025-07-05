@@ -1,0 +1,55 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Yinuo Han
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal website.
+baseurl: "/bay" # the subpath of the site
+url: "https://yinuohan.github.io" # the base hostname & protocol for the site
+google_analytics: "G-PQSX7VEK1M"
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Science
+    - name: Publications
+    - name: People
+    - name: Press
+    - name: About
+
+footer:
+  show_powered_by: false
+  contact:
+    - type: email
+      name: Email
+      value: yinuo@caltech.edu
+    - type: address
+      name: "1200 E California Blvd, Pasadena, CA 91125"
+  follow:
+    - type: github
+      name: GitHub
+      link: http://github.com/yinuohan
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
