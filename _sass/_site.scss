@@ -14,7 +14,7 @@
 .home-pic {
   float: left;
   margin-top: 10px;
-  margin-bottom: 0px;
+  margin-bottom: 50px;
 
   @include media-query($on-mobile) {
     float: none;
@@ -91,7 +91,7 @@
   float: right;
   margin-top: 0px;
   padding-right: 0px;
-  padding-left: 10px;
+  margin-left: 10px;
   width: 100px;
 }
 
@@ -99,7 +99,7 @@
   float: right;
   margin-top: 0px;
   padding-right: 0px;
-  padding-left: 10px;
+  margin-left: 10px;
   width: 100px;
   height: 100px;
 }
