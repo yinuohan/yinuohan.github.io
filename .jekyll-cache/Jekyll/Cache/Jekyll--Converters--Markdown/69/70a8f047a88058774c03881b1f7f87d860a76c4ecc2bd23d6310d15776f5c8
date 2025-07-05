@@ -1,12 +1,12 @@
-I"ÞW<h2 id="planetary-systems-and-their-formation">Planetary systems and their formation</h2>
-<figure style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+I"wW<h2 id="planetary-systems-and-their-formation">Planetary systems and their formation</h2>
+<figure class="float-right" style="width: 300px;">
   <img src="./img/planets.pdf" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">The mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
 
 <p>One of the most notable discoveries of modern astronomy is that planetary systems are ubiquitously found around stars. Many of them host components that are familiar to us in the Solar System, with each star on average thought to host (at least) a planet, and a fifth of stars (or more) hosting detectable belts of comets. The great diversity among how planetary systems are configured motivates much of the work that follow here, which aims to understand how they form and evolved to their present state, and how they will continue to evolve into the future.</p>
 
-<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-right" style="width: 300px">
   <img src="./publications/Han-2025a-icon.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">Belts of planetesimals/comets in other Solar Systems</figcaption>
 </figure>

@@ -5,14 +5,14 @@ slug: /science
 ---
 
 ## Planetary systems and their formation
-<figure class="mobile_nofloat" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-right" style="width: 300px;">
   <img src="./img/planets.pdf" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">The mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
 
 One of the most notable discoveries of modern astronomy is that planetary systems are ubiquitously found around stars. Many of them host components that are familiar to us in the Solar System, with each star on average thought to host (at least) a planet, and a fifth of stars (or more) hosting detectable belts of comets. The great diversity among how planetary systems are configured motivates much of the work that follow here, which aims to understand how they form and evolved to their present state, and how they will continue to evolve into the future.  
 
-<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-left" style="width: 300px;">
   <img src="./publications/Han-2025a-icon.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Belts of planetesimals/comets in other Solar Systems</figcaption>
 </figure>
@@ -26,7 +26,7 @@ The [ALMA observatory](https://www.eso.org/public/teles-instr/alma/) recently im
 ## Debris disk dynamics
 The structure of debris disks tells us about the dynamical state of the system and any potentially hidden planets which may be perturbing the disk. An often invoked example is the way gaps in debris disks could be carved by planets, which could range from a few Neptunes to a few Jupiters in mass at a few tens of astronomical units based on the kind of radial gaps that we observe. 
 
-<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-left" style="width: 300px;">
   <img src="./publications/Han-2023-icon.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Planet migration scenarios under a mean-motion resonance model for the dust clump in β Pic</figcaption>
 </figure>
@@ -39,7 +39,7 @@ $$\beta$$ Pic also hosts a large clump of dust and gas on one side of the disk b
 
 ## From image to 3D structure
 
-<figure style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-right" style="width: 300px;">
   <img src="./img/rave.jpg" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Nonparametrically fitting the disk structure in simulated thermal emission and scattered light images</figcaption>
 </figure>
@@ -52,21 +52,21 @@ The nonparametric method, frank, has also been developed ([Jennings et al., 2020
 
 ## Dusty Wolf-Rayet stars
 
-<figure style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-right" style="width: 200px;">
   <img src="./img/High_VISIR.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Apep as seen by the VLT, <a href="./publications/Han-2020.pdf">Han <i>et al.</i> 2020</a> </figcaption>
 </figure>
 
 Dust and gas in the interstellar medium collapse to form dense, rotating disks, at the centre of which, upon accretion of sufficient amounts of gas, a young star emerges and illuminates its surrounding. In the protoplanetary disk that surrounds it, microscopic particles of dust coagulate, growing under some different combinations of sticking, gravity and giant impacts at various stages to eventually form planetesimals and terrestrial to giant planets. Upon dispersal of the gas disk, belts of planetesimals formed from dust continue to collide, only this time violently enough to release more dust than they the amount by which they grow, with the dust grinding down until small enough to be blown out of the system via radiation pressure, returning the material from which the planetary system formed back to the interstellar medium, while allowing us to image their distribution and infer the very presence of a planetary system. 
 
-<figure style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-right" style="width: 200px;">
   <img src="./publications/Han-2022b-icon.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">WR140 as seen by Keck, <a href="./publications/Han-2022b.pdf">Han <i>et al.</i> 2022b</a> </figcaption>
 </figure>
 
 Where does this planet-forming dust come from? Evolved stars are known to be important dust producers, however the most massive of them could have an outsized role to play. Stars greater than about two dozen times the mass of the Sun evolve so quickly that by the time most stars would have just started forming planets, they are well on their way to becoming supernovae. During their final phase of evolution, they are known as Wolf-Rayet stars, characterised by extremely high luminosities ($$10^6$$ solar luminosities), fast stellar winds (3,000 km/s) and high mass loss rates ($$10^{-5}$$ solar masses per year) and sometimes, perhaps surprisingly, they are extremely prolific producers of carbonaceous dust. 
 
-<figure style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-right" style="width: 200px;">
   <img src="./publications/Lau-2020-icon.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">WR112 as seen by the VLT, <a href="./publications/Lau-2020.pdf">Lau <i>et al.</i> 2020</a> </figcaption>
 </figure>
@@ -180,7 +180,7 @@ The images of the beautiful dust structures allow us to construct models that co
 
 ## Light and dust
 
-<figure style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;">
+<figure class="float-right" style="width: 300px;">
   <img src="./img/Collage.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">The expanding dust shell of WR140</figcaption>
 </figure>
@@ -195,7 +195,7 @@ In dust-producing Wolf-Rayet binaries, the well-defined geometry of dust structu
 
 ## Imaging at high angular resolution
 
-<figure style="float: left; width: 230px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="float-left" style="width: 230px;">
   <img src="./img/masking-image.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Near-infrared aperture masking interferograms of Apep</figcaption>
 </figure>

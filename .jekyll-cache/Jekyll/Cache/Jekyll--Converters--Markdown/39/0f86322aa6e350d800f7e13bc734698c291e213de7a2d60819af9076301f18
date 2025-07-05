@@ -1,134 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-  <head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width initial-scale=1" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-
-  
-
-  
-  
-
-  
-    
-  
-
-  <!-- Primary Meta Tags -->
-  <title>Yinuo Han | Science</title>
-  <meta name="title" content="Yinuo Han | Science"/>
-  <meta name="description" content="Personal website."/>
-
-  <!-- Open Graph / Facebook -->
-  <meta property="og:site_name" content="Yinuo Han | Science"/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:url" content="http://localhost:4000//science"/>
-  <meta property="og:title" content="Yinuo Han | Science"/>
-  <meta property="og:description" content="Personal website."/>
-  <meta property="og:image" content="http://localhost:4000/"/>
-
-  <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image"/>
-  <meta property="twitter:url" content="http://localhost:4000//science"/>
-  <meta property="twitter:title" content="Yinuo Han | Science"/>
-  <meta property="twitter:description" content="Personal website."/>
-  <meta property="twitter:image" content="http://localhost:4000/"/>
-  
-
-  <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css"/>
-  <link rel="canonical" href="http://localhost:4000//science"/>
-  <link rel="shortcut icon" href="http://localhost:4000/favicon.ico" type="image/x-icon"/>
-
-  <!-- Google Analytics -->
-  <script>
-    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', "G-PQSX7VEK1M", "auto");
-    ga('send', "pageview");
-  </script>
-  <script async src="https://www.google-analytics.com/analytics.js"></script>
-
-
-</head>
-
-
-  <body>
-    <header class="site-header">
-  <div class="wrapper">
-    <!-- <a class="site-title" href="http://localhost:4000//"> -->
-      <!-- <img src="http://localhost:4000/assets/img/title.png" alt="Yinuo Han" /> -->
-      <p class="site-title"> Yinuo Han </p>
-    <!-- </a> -->
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon"></a>
-
-      <div class="menu">
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/">
-            Home
-          </a>
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/science">
-            Science
-          </a>
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/publications">
-            Publications
-          </a>
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/people">
-            People
-          </a>
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/press">
-            Press
-          </a>
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/about">
-            About
-          </a>
-        
-      </div>
-    </nav>
-  </div>
-</header>
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        <h2 id="planetary-systems-and-their-formation">Planetary systems and their formation</h2>
-<figure class="float-right" style="width: 300px;">
+I"�W<h2 id="planetary-systems-and-their-formation">Planetary systems and their formation</h2>
+<figure class="floatright" style="width: 300px;">
   <img src="./img/planets.pdf" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">The mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
 
 <p>One of the most notable discoveries of modern astronomy is that planetary systems are ubiquitously found around stars. Many of them host components that are familiar to us in the Solar System, with each star on average thought to host (at least) a planet, and a fifth of stars (or more) hosting detectable belts of comets. The great diversity among how planetary systems are configured motivates much of the work that follow here, which aims to understand how they form and evolved to their present state, and how they will continue to evolve into the future.</p>
 
-<figure class="float-left" style="width: 300px;">
+<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./publications/Han-2025a-icon.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">Belts of planetesimals/comets in other Solar Systems</figcaption>
 </figure>
@@ -141,7 +19,7 @@
 <h2 id="debris-disk-dynamics">Debris disk dynamics</h2>
 <p>The structure of debris disks tells us about the dynamical state of the system and any potentially hidden planets which may be perturbing the disk. An often invoked example is the way gaps in debris disks could be carved by planets, which could range from a few Neptunes to a few Jupiters in mass at a few tens of astronomical units based on the kind of radial gaps that we observe.</p>
 
-<figure class="float-left" style="width: 300px;">
+<figure style="float: left; width: 300px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./publications/Han-2023-icon.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">Planet migration scenarios under a mean-motion resonance model for the dust clump in β Pic</figcaption>
 </figure>
@@ -153,7 +31,7 @@
 
 <h2 id="from-image-to-3d-structure">From image to 3D structure</h2>
 
-<figure class="float-right" style="width: 300px;">
+<figure style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./img/rave.jpg" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">Nonparametrically fitting the disk structure in simulated thermal emission and scattered light images</figcaption>
 </figure>
@@ -165,21 +43,21 @@
 
 <h2 id="dusty-wolf-rayet-stars">Dusty Wolf-Rayet stars</h2>
 
-<figure class="float-right" style="width: 200px;">
+<figure style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./img/High_VISIR.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">Apep as seen by the VLT, <a href="./publications/Han-2020.pdf">Han <i>et al.</i> 2020</a> </figcaption>
 </figure>
 
 <p>Dust and gas in the interstellar medium collapse to form dense, rotating disks, at the centre of which, upon accretion of sufficient amounts of gas, a young star emerges and illuminates its surrounding. In the protoplanetary disk that surrounds it, microscopic particles of dust coagulate, growing under some different combinations of sticking, gravity and giant impacts at various stages to eventually form planetesimals and terrestrial to giant planets. Upon dispersal of the gas disk, belts of planetesimals formed from dust continue to collide, only this time violently enough to release more dust than they the amount by which they grow, with the dust grinding down until small enough to be blown out of the system via radiation pressure, returning the material from which the planetary system formed back to the interstellar medium, while allowing us to image their distribution and infer the very presence of a planetary system.</p>
 
-<figure class="float-right" style="width: 200px;">
+<figure style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./publications/Han-2022b-icon.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">WR140 as seen by Keck, <a href="./publications/Han-2022b.pdf">Han <i>et al.</i> 2022b</a> </figcaption>
 </figure>
 
 <p>Where does this planet-forming dust come from? Evolved stars are known to be important dust producers, however the most massive of them could have an outsized role to play. Stars greater than about two dozen times the mass of the Sun evolve so quickly that by the time most stars would have just started forming planets, they are well on their way to becoming supernovae. During their final phase of evolution, they are known as Wolf-Rayet stars, characterised by extremely high luminosities (\(10^6\) solar luminosities), fast stellar winds (3,000 km/s) and high mass loss rates (\(10^{-5}\) solar masses per year) and sometimes, perhaps surprisingly, they are extremely prolific producers of carbonaceous dust.</p>
 
-<figure class="float-right" style="width: 200px;">
+<figure style="float: right; width: 200px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./publications/Lau-2020-icon.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">WR112 as seen by the VLT, <a href="./publications/Lau-2020.pdf">Lau <i>et al.</i> 2020</a> </figcaption>
 </figure>
@@ -291,7 +169,7 @@
 
 <h2 id="light-and-dust">Light and dust</h2>
 
-<figure class="float-right" style="width: 300px;">
+<figure style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 10px;">
   <img src="./img/Collage.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">The expanding dust shell of WR140</figcaption>
 </figure>
@@ -305,7 +183,7 @@
 
 <h2 id="imaging-at-high-angular-resolution">Imaging at high angular resolution</h2>
 
-<figure class="float-left" style="width: 230px;">
+<figure style="float: left; width: 230px; margin-right: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./img/masking-image.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">Near-infrared aperture masking interferograms of Apep</figcaption>
 </figure>
@@ -313,114 +191,4 @@
 <p>Imaging structures in distant planetary systems and stars often requires very high angular resolution. Observatories like ALMA achieve this at millimetre wavelengths through interferometry, setting up large arrays with long baselines. In optical and near-infrared wavelengths, the limiting factor is often the Earth’s atmosphere, which could be partly mitigated with better calibration enabled by techniques like aperture masking interferometry for bright targets, as pioneered by <a href="https://ui.adsabs.harvard.edu/abs/2000SPIE.4006..491T/abstract">Tuthill <em>et al.</em> 2000</a>. The example interferograms shown in this section are those of Apep. Of the two stellar components, only one is a Wolf-Rayet binary, based on which <a href="./publications/Han-2020.pdf">Han <em>et al.</em> 2020</a> were able to measure the 50 milliarcsecond separation and position angle of the binary.</p>
 
 <p>Even in the absence of atmospheric interference, optical interferometry with an aperture mask could effectively double the spatial resolution of a telescope. The James Webb Space Telescope carries such a mask, which has been used to observe and reconstruct images of dust around WR137 that is robust against the method of image reconstruction used <a href="./publications/Lau-2024.pdf">Lau <em>et al.</em> 2024</a>. These high-resolution imaging techniques are central to many of the discoveries on which the science themes on this page are based.</p>
-
-      </div>
-    </div>
-
-    <!-- <footer class="site-footer">
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <h4>CONTACT</h4>
-
-        <div class="social-links">
-          
-            <div class="social-link contact-links">
-
-              
-              <img
-                src="http://localhost:4000/assets/img/icons/email.png"
-                alt="email"
-              />
-
-              
-                
-                  
-                  
-                  
-                  
-                  
-
-                  
-                  
-                  
-                  <span
-                    data-resu="ouniy"
-                    data-eman-niamod="hcetlac"
-                    data-dlt-niamod="ude"
-                    id="email-link"
-                    class="link email-link-cloaked"
-                  >
-                    Email
-                  </span>
-                
-              
-            </div>
-
-          
-            <div class="social-link contact-links">
-
-              
-              <img
-                src="http://localhost:4000/assets/img/icons/address.png"
-                alt="address"
-              />
-
-              
-                <a href="" id="address-link">
-                  
-                    1200 E California Blvd, Pasadena, CA 91125
-                  
-                </a>
-              
-            </div>
-
-          
-        </div>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        
-          <h4>LINKS</h4>
-
-          <div class="social-links follow-links">
-            
-              <div class="social-link">
-
-                
-                <img
-                  src="http://localhost:4000/assets/img/icons/github.png"
-                  alt="github"
-                />
-                <a href="http://github.com/yinuohan">
-                  
-                    GitHub
-                  
-                </a>
-              </div>
-
-            
-          </div>
-        
-      </div>
-
-      
-    </div>
-  </div>
-</footer>
-
-
-  
-
-  
-
-
-
-
- -->
-    
-    <!-- <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/cash-4.1.5.min.js"></script>
-<script type="text/javascript" src="http://localhost:4000/assets/js/site.js"></script>
- -->
-  </body>
-</html>
+:ET
