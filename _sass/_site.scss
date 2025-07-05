@@ -11,6 +11,17 @@
   }
 }
 
+.home-pic {
+  float: left;
+  margin-top: 10px;
+  margin-bottom: 0px;
+
+  @include media-query($on-mobile) {
+    float: none;
+    margin-bottom: 20px;
+  }
+}
+
 .right-pic {
   float: right;
   width: 240px;
@@ -49,7 +60,7 @@
 
   @include media-query($on-mobile) {
     float: none;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     margin-right: 0px;
   }
 }
@@ -62,7 +73,7 @@
 
   @include media-query($on-mobile) {
     float: none;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     margin-right: 0px;
   }
 }
@@ -79,14 +90,16 @@
 .paper-icon-rectangle {
   float: right;
   margin-top: 0px;
-  padding-right: 20px;
+  padding-right: 0px;
+  padding-left: 10px;
   width: 100px;
 }
 
 .paper-icon {
   float: right;
   margin-top: 0px;
-  padding-right: 20px;
+  padding-right: 0px;
+  padding-left: 10px;
   width: 100px;
   height: 100px;
 }

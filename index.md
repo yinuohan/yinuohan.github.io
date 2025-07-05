@@ -4,7 +4,7 @@ title: Home
 slug: /
 ---
 
-## Home page - testing
+## Home page - testing2
 
 Welcome to my research home page, which outlines some of my research interests and recent projects. 
 
@@ -14,11 +14,12 @@ Both planetary systems and evolved stars can create dusty environments due to a 
 
 <!-- Students who are interested in [collaborating](./people) are welcome to get in touch. -->
 
-<div style="">
-<img src="./img/Collage.png" style="height: 180px; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;">
-<img src="./img/nospf_example.pdf" style="height: 180px; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;">
-<img src="./img/WR112_slow.gif" style="height: 180px; margin-bottom: 0px; margin-top: 10px;">
+<div style="margin-bottom: 100px">
+    <img src="./img/Collage.png" class="home-pic" style="height: 180px; margin-right: 10px;">
+    <img src="./img/nospf_example.pdf" class="home-pic" style="height: 180px; margin-right: 10px;">
+    <img src="./img/WR112_slow.gif" class="home-pic" style="height: 180px; margin-bottom: 50px;">
 </div>
+
 <br/><br/>
 
 ## News
