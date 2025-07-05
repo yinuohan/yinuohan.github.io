@@ -16,7 +16,7 @@ Both planetary systems and evolved stars can create dusty environments due to a 
 
 <div>
     <img src="./img/Collage.png" class="home-pic" style="height: 180px; margin-right: 10px;">
-    <img src="./img/nospf_example.pdf" class="home-pic" style="height: 180px; margin-right: 10px;">
+    <img src="./img/nospf_example.png" class="home-pic" style="height: 180px; margin-right: 10px;">
     <img src="./img/WR112_slow.gif" class="home-pic" style="height: 180px;">
 </div>
 

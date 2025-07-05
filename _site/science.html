@@ -51,13 +51,22 @@
   <link rel="canonical" href="http://localhost:4000//science"/>
   <link rel="shortcut icon" href="http://localhost:4000/favicon.ico" type="image/x-icon"/>
 
-  <!-- Google Analytics -->
-  <script>
+  Google Analytics
+  <!-- <script>
     window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    ga('create', "G-PQSX7VEK1M", "auto");
+    ga('create', "", "auto");
     ga('send', "pageview");
   </script>
-  <script async src="https://www.google-analytics.com/analytics.js"></script>
+  <script async src="https://www.google-analytics.com/analytics.js"></script> -->
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PQSX7VEK1M"></script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+    gtag('config', 'G-PQSX7VEK1M');
+  </script>
 
 
 </head>
@@ -135,7 +144,7 @@
       <div class="wrapper">
         <h2 id="planetary-systems-and-their-formation">Planetary systems and their formation</h2>
 <figure class="float-right" style="width: 300px;">
-  <img src="./img/planets.pdf" style="margin-bottom: 10px;" />
+  <img src="./img/planets.png" style="margin-bottom: 10px;" />
   <figcaption style="text-align: center;">A classic plot showing the mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
 
