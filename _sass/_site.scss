@@ -19,6 +19,7 @@
   @include media-query($on-mobile) {
     float: none;
     margin-bottom: 20px;
+    padding-right: 30px;
   }
 }
 
@@ -85,6 +86,10 @@
   margin-right: 20px;
   margin-top: 0px;
   margin-bottom: 10px;
+
+  @include media-query($on-mobile) {
+    float: none;
+  }
 }
 
 .paper-icon-rectangle {
