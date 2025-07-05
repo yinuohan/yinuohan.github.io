@@ -4,7 +4,7 @@ title: Home
 slug: /
 ---
 
-## Home page
+## Home page - testing
 
 Welcome to my research home page, which outlines some of my research interests and recent projects. 
 
