@@ -41,6 +41,14 @@
   }
 }
 
+.mobile_nofloat {
+  @include media-query($on-mobile) {
+    float: none;
+    margin-bottom: 20px;
+    margin-right: 0px;
+  }
+}
+
 .gif_grid {
   float: left;
   width: 180px;

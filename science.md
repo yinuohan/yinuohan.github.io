@@ -5,7 +5,7 @@ slug: /science
 ---
 
 ## Planetary systems and their formation
-<figure style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
+<figure class="mobile_nofloat" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; margin-top: 0px;">
   <img src="./img/planets.pdf" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">The mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
