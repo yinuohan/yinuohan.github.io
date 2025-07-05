@@ -23,4 +23,17 @@
       </div>
     </nav>
   </div>
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var menuIcon = document.querySelector(".menu-icon");
+    var menu = document.querySelector(".menu");
+
+    if (menuIcon && menu) {
+      menuIcon.addEventListener("click", function (e) {
+        e.preventDefault();
+        menu.style.display = (menu.style.display === "block") ? "none" : "block";
+      });
+    }
+  });
+  </script>
 </header>
