@@ -7,7 +7,7 @@ slug: /science
 ## Planetary systems and their formation
 <figure class="float-right" style="width: 300px;">
   <img src="./img/planets.pdf" style="margin-bottom: 10px;">
-  <figcaption style="text-align: center;">The mass and radius of planets that have been detected in other Solar Systems</figcaption>
+  <figcaption style="text-align: center;">A classic plot showing the mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
 
 One of the most notable discoveries of modern astronomy is that planetary systems are ubiquitously found around stars. Many of them host components that are familiar to us in the Solar System, with each star on average thought to host (at least) a planet, and a fifth of stars (or more) hosting detectable belts of comets. The great diversity among how planetary systems are configured motivates much of the work that follow here, which aims to understand how they form and evolved to their present state, and how they will continue to evolve into the future.  
