@@ -3,7 +3,7 @@
 
 title: Yinuo Han
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website.
+  Yinuo Han's astronomy research website.
 baseurl: "/" # the subpath of the site
 url: "https://yinuohan.github.io" # the base hostname & protocol for the site
 
@@ -36,6 +36,8 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Excluded items
 exclude:
