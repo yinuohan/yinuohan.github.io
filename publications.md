@@ -16,6 +16,13 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
+<img src="../publications/Monnier-2025-icon.png" class="paper-icon"/>
+
+### [Revealing the accelerating wind in the inner region of colliding-wind binary WR112.](../publications/Monnier-2025.pdf)
+*The Astrophysical Journal* (2025)\
+J. D. Monnier, Y. Han *et al.*
+<br/><br/>
+
 <img src="../publications/Richardson-2025-icon.png" class="paper-icon"/>
 
 ### [Carbon-rich dust injected into the interstellar medium by Galactic WC binaries survives for hundreds of years.](../publications/Richardson-2025.pdf)
