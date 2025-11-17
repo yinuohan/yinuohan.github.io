@@ -16,6 +16,20 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
+<img src="../publications/Han-2025b-icon.png" class="paper-icon"/>
+
+### [The formation and evolution of dust in the colliding-wind binary Apep revealed by JWST.](../publications/Han-2025b.pdf)
+*The Astrophysical Journal* (2025)\
+Y. Han *et al.*
+<br/><br/>
+
+<img src="../publications/White-2025-icon.png" class="paper-icon"/>
+
+### [The Serpent Eating Its Own Tail: Dust Destruction in the Apep Colliding-Wind Nebula.](../publications/White-2025.pdf)
+*The Astrophysical Journal* (2025)\
+R. M. T. White *et al.*
+<br/><br/>
+
 <img src="../publications/Monnier-2025-icon.png" class="paper-icon"/>
 
 ### [Revealing the accelerating wind in the inner region of colliding-wind binary WR112.](../publications/Monnier-2025.pdf)
@@ -112,7 +126,7 @@ P. A. Robinson, X. Gao, Y. Han
 B. Marcote, J. R. Callingham, M. De Becker, P. G. Edwards, Y. Han, R. Schulz, J. Stevens, P. G. Tuthill
 <br/><br/>
 
-<img src="../img/High_VISIR.png" class="paper-icon"/>
+<img src="../publications/Han-2020-icon.png" class="paper-icon"/>
 
 ### [The extreme colliding-wind system Apep: resolved imagery of the central binary and dust plume in the infrared](../publications/Han-2020.pdf)
 *Monthly Notices of the Royal Astronomical Society* (2020)\
