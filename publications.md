@@ -25,7 +25,7 @@ Y. Han *et al.*
 
 <img src="../publications/White-2025-icon.png" class="paper-icon"/>
 
-### [The Serpent Eating Its Own Tail: Dust Destruction in the Apep Colliding-Wind Nebula](../publications/White-2025.pdf)
+### [The serpent eating its own tail: dust destruction in the Apep colliding-wind nebula](../publications/White-2025.pdf)
 *The Astrophysical Journal* (2025)\
 R. M. T. White *et al.*
 <br/><br/>
