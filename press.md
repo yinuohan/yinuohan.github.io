@@ -7,6 +7,20 @@ slug: /press
 
 ## Press
 
+### [Nov 2025] Press release: [JWST images seven centuries of stellar dust arranged in beautiful nested spirals](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/)
+<img src="./img/Apep_JWST.jpeg" class="left-pic">
+
+Apep consists of two massive stars orbiting each other on a highly elliptical orbit. 
+<!-- Both stars belong to a rare class of objects known as Wolf-Rayet stars, shedding large amounts of mass in the form of stellar winds. -->
+Every two hundred years, they approach each other and spend a few decades in such proximity that their powerful stellar winds collide, launching fireworks of dust that bloom and grow in slow motion in the infrared night sky. 
+This was precisely what the James Webb Space Telescope recently captured, except the telescope's infrared vision was so sharp that it could see the fading flecks of light from the past seven centuries of this spectacle that would otherwise have dissolved into darkness. 
+
+In fact, we were able to trace how these sparks of dust cool as they fade, which turns out to be in line very small particles of carbon. 
+While rare, Wolf-Rayet stars are a major carbon dust producer and can significantly reshape their environment. The impact of their chemical and thermal reach on the dust and gas content of galaxies and the formation of a new generation of stars and planets are active topics of investigation. 
+
+Images can be downloaded [here](./pages/apep-jwst). You can read more from press releases by [NASA](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/) (including a video that turns the image into 3D) and [Caltech](https://www.caltech.edu/about/news/rare-star-system-gives-insights-into-the-origins-of-carbon-dust-in-the-galaxy). 
+<br/><br/>
+
 ### [May 2025] Podcast: [What can astronomy tell us about our place in the universe](https://www.gatescambridge.org/about/news/what-can-astronomy-tell-us-about-our-place-in-the-universe/)
 <!-- <iframe width="240" height="240" src="https://www.youtube.com/embed/t3Uqhi4gF_c" class="left-pic"> </iframe> -->
 
@@ -29,4 +43,4 @@ Simultaneous to the study was the delivery of images obtained by the James Webb 
 ### [Oct 2020] Press release: [The Wolf-Rayet binary Apep](https://www.sydney.edu.au/news-opinion/news/2020/10/12/Wolf-Rayet-binary-apep-in-the-eye-of-stellar-cyclone.html)
 <img src="./img/High_VISIR.png" class="left-pic">
 
-The most massive of stars end their evolution in a supernova explosion. In the leadup to it, they enter a Wolf-Rayet phase, during which they release a very large amount of mass as dust, sometimes in the form of intricately shaped spirals. We imaged a rare example of such a spiral over 3 years, precisely measuring the speed at which the dust spiral expands away from the star. We were also able to use very high resolution imaging methods to resolve the two stars at the core of this dust-generating engine, allowing us to construct a model that links the inner orbit of the stars with the outer shape of the dust which they create. This [video](https://www.youtube.com/watch?v=eH7x45BkQdM&feature=youtu.be) visualises the model. Read more from the University of Sydney [press release](https://www.sydney.edu.au/news-opinion/news/2020/10/12/Wolf-Rayet-binary-apep-in-the-eye-of-stellar-cyclone.html), [CNN](https://us.cnn.com/2020/10/12/world/wolf-rayet-star-apep-scn-trnd/index.html) and [The Conversation](https://theconversation.com/this-mysterious-exotic-stellar-peacock-may-open-the-door-to-a-realm-of-physics-only-ever-glimpsed-147911). 
+The most massive of stars end their evolution in a supernova explosion. In the lead-up to it, they enter a Wolf-Rayet phase, during which they release a very large amount of mass as dust, sometimes in the form of intricately shaped spirals. We imaged a rare example of such a spiral over 3 years, precisely measuring the speed at which the dust spiral expands away from the star. We were also able to use very high resolution imaging methods to resolve the two stars at the core of this dust-generating engine, allowing us to construct a model that links the inner orbit of the stars with the outer shape of the dust which they create. This [video](https://www.youtube.com/watch?v=eH7x45BkQdM&feature=youtu.be) visualises the model. Read more from the University of Sydney [press release](https://www.sydney.edu.au/news-opinion/news/2020/10/12/Wolf-Rayet-binary-apep-in-the-eye-of-stellar-cyclone.html), [CNN](https://us.cnn.com/2020/10/12/world/wolf-rayet-star-apep-scn-trnd/index.html) and [The Conversation](https://theconversation.com/this-mysterious-exotic-stellar-peacock-may-open-the-door-to-a-realm-of-physics-only-ever-glimpsed-147911). 

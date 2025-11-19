@@ -18,28 +18,28 @@ Publications are also available for download via the links below.
 
 <img src="../publications/Han-2025b-icon.png" class="paper-icon"/>
 
-### [The formation and evolution of dust in the colliding-wind binary Apep revealed by JWST.](../publications/Han-2025b.pdf)
+### [The formation and evolution of dust in the colliding-wind binary Apep revealed by JWST](../publications/Han-2025b.pdf)
 *The Astrophysical Journal* (2025)\
 Y. Han *et al.*
 <br/><br/>
 
 <img src="../publications/White-2025-icon.png" class="paper-icon"/>
 
-### [The Serpent Eating Its Own Tail: Dust Destruction in the Apep Colliding-Wind Nebula.](../publications/White-2025.pdf)
+### [The Serpent Eating Its Own Tail: Dust Destruction in the Apep Colliding-Wind Nebula](../publications/White-2025.pdf)
 *The Astrophysical Journal* (2025)\
 R. M. T. White *et al.*
 <br/><br/>
 
 <img src="../publications/Monnier-2025-icon.png" class="paper-icon"/>
 
-### [Revealing the accelerating wind in the inner region of colliding-wind binary WR112.](../publications/Monnier-2025.pdf)
+### [Revealing the accelerating wind in the inner region of colliding-wind binary WR112](../publications/Monnier-2025.pdf)
 *The Astrophysical Journal* (2025)\
 J. D. Monnier, Y. Han *et al.*
 <br/><br/>
 
 <img src="../publications/Richardson-2025-icon.png" class="paper-icon"/>
 
-### [Carbon-rich dust injected into the interstellar medium by Galactic WC binaries survives for hundreds of years.](../publications/Richardson-2025.pdf)
+### [Carbon-rich dust injected into the interstellar medium by Galactic WC binaries survives for hundreds of years](../publications/Richardson-2025.pdf)
 *The Astrophysical Journal* (2025)\
 N. D. Richardson *et al.*
 <br/><br/>

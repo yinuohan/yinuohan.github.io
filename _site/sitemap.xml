@@ -8,6 +8,9 @@
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/apep-jwst.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/blog.html</loc>
 </url>
 <url>
@@ -27,7 +30,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/CV/CV.pdf</loc>
-<lastmod>2025-11-17T13:20:33-08:00</lastmod>
+<lastmod>2025-11-17T15:02:35-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/img/Apep_JWST_axes.pdf</loc>
+<lastmod>2025-11-17T12:58:24-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/img/nospf_example.pdf</loc>
