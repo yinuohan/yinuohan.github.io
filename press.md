@@ -23,7 +23,7 @@ This was precisely what the James Webb Space Telescope recently captured, except
 Using these images, we were able to trace how these sparks of dust cool as they fade, which turns out to be in line very small particles of carbon. A third star punches a hole through the otherwise regular spiral dust surface. 
 While rare, Wolf-Rayet stars are a major carbon dust producer and can significantly reshape their environment. The impact of their chemical and thermal reach on the dust and gas content of galaxies and the formation of a new generation of stars and planets are active topics of investigation. 
 
-Images can be downloaded [here](./pages/apep-jwst). You can read more from press releases by [NASA](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/) and [Caltech](https://www.caltech.edu/about/news/rare-star-system-gives-insights-into-the-origins-of-carbon-dust-in-the-galaxy).
+Images can be downloaded [here](./pages/apep-jwst). You can read more from press releases by [NASA](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/), [Caltech](https://www.caltech.edu/about/news/rare-star-system-gives-insights-into-the-origins-of-carbon-dust-in-the-galaxy) and [Macquarie University](https://lighthouse.mq.edu.au/article/november-2025/apeps-sting-macquarie-student-helps-unlock-mysteries-of-dying-stars-deadly-embrace).
 
 <br/><br/>
 
