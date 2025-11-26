@@ -15,7 +15,7 @@ Apep consists of two massive stars orbiting each other on a highly elliptical or
 Every two hundred years, they approach each other and spend a few decades in such proximity that their powerful stellar winds collide, launching fireworks of dust that bloom and grow in slow motion in the infrared night sky. 
 This was precisely what the James Webb Space Telescope recently captured, except the telescope's infrared vision was so sharp that it could see the fading flecks of light from the past seven centuries of this spectacle that would otherwise have dissolved into darkness. 
 
-<figure class="float-left" style="width: 240px; margin-bottom: 50px;">
+<figure class="float-left" style="width: 240px; margin-bottom: 10px;">
     <iframe width="240" height="150" src="https://www.youtube.com/embed/fITdexBNfkQ" class="left-pic"> </iframe>
     <figcaption style="text-align: center;">Christian Nieves, Alyssa Pagan (STScI); NASA, ESA, CSA, STScI</figcaption>
 </figure>
@@ -23,7 +23,7 @@ This was precisely what the James Webb Space Telescope recently captured, except
 Using these images, we were able to trace how these sparks of dust cool as they fade, which turns out to be in line very small particles of carbon. A third star punches a hole through the otherwise regular spiral dust surface. 
 While rare, Wolf-Rayet stars are a major carbon dust producer and can significantly reshape their environment. The impact of their chemical and thermal reach on the dust and gas content of galaxies and the formation of a new generation of stars and planets are active topics of investigation. 
 
-Images can be downloaded [here](./pages/apep-jwst). You can read more from press releases by [NASA](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/), [Caltech](https://www.caltech.edu/about/news/rare-star-system-gives-insights-into-the-origins-of-carbon-dust-in-the-galaxy) and [Macquarie University](https://lighthouse.mq.edu.au/article/november-2025/apeps-sting-macquarie-student-helps-unlock-mysteries-of-dying-stars-deadly-embrace).
+You can read more from press releases by [NASA](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/), [Caltech](https://www.caltech.edu/about/news/rare-star-system-gives-insights-into-the-origins-of-carbon-dust-in-the-galaxy) and [Macquarie University](https://lighthouse.mq.edu.au/article/november-2025/apeps-sting-macquarie-student-helps-unlock-mysteries-of-dying-stars-deadly-embrace). The colour image is available [here](./pages/apep-jwst), which was also featured on [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap251124.html). 
 
 <br/><br/>
 
