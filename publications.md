@@ -16,6 +16,13 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
+<img src="../publications/Wu-2025-icon.png" class="paper-icon-rectangle"/>
+
+### [*[Preprint in review]* Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2025.pdf)
+*The Astrophysical Journal* (2025)\
+D. Wu, Y. Han *et al.*
+<br/><br/>
+
 <img src="../publications/Han-2025b-icon.png" class="paper-icon"/>
 
 ### [The formation and evolution of dust in the colliding-wind binary Apep revealed by JWST](../publications/Han-2025b.pdf)
