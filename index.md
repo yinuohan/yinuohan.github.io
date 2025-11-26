@@ -28,6 +28,6 @@ Both planetary systems and evolved stars can create dusty environments due to a 
 
 [Nov 2025] Beautiful spiral dust shells [imaged](./pages/apep-jwst) by JWST -- see [press page](./press) for details!
 
-[Oct 2024] I have moved to Caltech. Please use my updated [contact details](./about) if you would like to get in touch. 
+<!-- [Oct 2024] I have moved to Caltech. Please use my updated [contact details](./about) if you would like to get in touch. -->
 
 
