@@ -18,7 +18,7 @@ Publications are also available for download via the links below.
 
 <img src="../publications/Wu-2025-icon.png" class="paper-icon-rectangle"/>
 
-### [*[Preprint in review]* Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2025.pdf)
+### [*[In press]* Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2025.pdf)
 *The Astrophysical Journal* (2025)\
 D. Wu, Y. Han *et al.*
 <br/><br/>
