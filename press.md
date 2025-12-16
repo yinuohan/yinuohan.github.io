@@ -47,6 +47,6 @@ Simultaneous to the study was the delivery of images obtained by the James Webb 
 <br/><br/>
 
 ### [Oct 2020] Press release: [The Wolf-Rayet binary Apep](https://www.sydney.edu.au/news-opinion/news/2020/10/12/Wolf-Rayet-binary-apep-in-the-eye-of-stellar-cyclone.html)
-<img src="./img/High_VISIR.png" class="left-pic">
+<img src="./img/High_VISIR.png" class="left-pic" style="margin-bottom: 30px;">
 
 The most massive of stars end their evolution in a supernova explosion. In the lead-up to it, they enter a Wolf-Rayet phase, during which they release a very large amount of mass as dust, sometimes in the form of intricately shaped spirals. We imaged a rare example of such a spiral over 3 years, precisely measuring the speed at which the dust spiral expands away from the star. We were also able to use very high resolution imaging methods to resolve the two stars at the core of this dust-generating engine, allowing us to construct a model that links the inner orbit of the stars with the outer shape of the dust which they create. This [video](https://www.youtube.com/watch?v=eH7x45BkQdM&feature=youtu.be) visualises the model. Read more from the University of Sydney [press release](https://www.sydney.edu.au/news-opinion/news/2020/10/12/Wolf-Rayet-binary-apep-in-the-eye-of-stellar-cyclone.html), [CNN](https://us.cnn.com/2020/10/12/world/wolf-rayet-star-apep-scn-trnd/index.html) and [The Conversation](https://theconversation.com/this-mysterious-exotic-stellar-peacock-may-open-the-door-to-a-realm-of-physics-only-ever-glimpsed-147911). 
