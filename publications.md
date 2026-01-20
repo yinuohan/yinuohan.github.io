@@ -16,6 +16,76 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
+<img src="../publications/Marino-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I. Motivation, sample, data reduction, and results overview](../publications/Marino-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+S. Marino *et al.*
+<br/><br/>
+
+<img src="../publications/Han-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) II. The radial structure of debris discs](../publications/Han-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+Y. Han *et al.*
+<br/><br/>
+
+<img src="../publications/Zawadzki-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) III. The vertical structure of debris disks](../publications/Zawadzki-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+B. Zawadzki *et al.*
+<br/><br/>
+
+<img src="../publications/MacManamon-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) IV. CO gas imaging and overview](../publications/MacManamon-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+S. Mac Manamon *et al.*
+<br/><br/>
+
+<img src="../publications/Milli-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) V. Comparison between scattered light and thermal emission](../publications/Milli-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+J. Milli *et al.*
+<br/><br/>
+
+<img src="../publications/Lovell-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) VI. Asymmetries and offsets](../publications/Lovell-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+J. B. Lovell *et al.*
+<br/><br/>
+
+<img src="../publications/Brennan-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) VII. Optically thick gas with broad CO gaussian local line profiles in the HD 121617 disc](../publications/Brennan-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+A. Brennan *et al.*
+<br/><br/>
+
+<img src="../publications/Marino-2026b-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) VIII. A dust arc and non-Keplerian gas kinematics in HD 121617](../publications/Marino-2026b.pdf)
+*Astronomy & Astrophysics* (2026)\
+S. Marino *et al.*
+<br/><br/>
+
+<img src="../publications/Weber-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) IX. Gas-driven origin for the continuum arc in the debris disc of HD 121617](../publications/Weber-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+P. Weber *et al.*
+<br/><br/>
+
+<img src="../publications/Jankovic-2026-icon.png" class="paper-icon"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) X. Interpreting the peculiar dust rings around HD 131835](../publications/Jankovic-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+M. R. Jankovic *et al.*
+<br/><br/>
+
 <img src="../publications/Wu-2025-icon.png" class="paper-icon-rectangle"/>
 
 ### [*[In press]* Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2025.pdf)
