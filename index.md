@@ -24,6 +24,10 @@ Both planetary systems and evolved stars can create dusty environments due to a 
 
 ## News
 
+[Jan 2026] A big fluffy doughnut...[of planetesimals](./pages/gam-oph-jwst) :O
+
+[Jan 2026] Debris disks at high resolution -- [ARKS](https://arkslp.org) results now [available](https://public.nrao.edu/news/alma-teenage-new-worlds/)!
+
 [Nov 2025] [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap251124.html)
 
 [Nov 2025] Beautiful spiral dust shells [imaged](./pages/apep-jwst) by JWST -- see [press page](./press) for details!

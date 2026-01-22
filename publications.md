@@ -16,6 +16,13 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
+<img src="../publications/Han-2026b-icon.png" class="paper-icon"/>
+
+### [*[In review]* A radially broad collisional cascade in the debris disk of γ Ophiuchi observed by JWST](../publications/Han-2026b.pdf)
+*Astronomy & Astrophysics* (2026)\
+Y. Han *et al.*
+<br/><br/>
+
 <img src="../publications/Marino-2026-icon.png" class="paper-icon"/>
 
 ### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I. Motivation, sample, data reduction, and results overview](../publications/Marino-2026.pdf)

@@ -7,13 +7,25 @@ slug: /press
 
 ## Press
 
+### [Jan 2026] Press release: [Extrasolar comet belts imaged at unprecedented detail](https://public.nrao.edu/news/alma-teenage-new-worlds/)
+<figure class="float-left" style="width: 240px; margin-bottom: 10px;">
+    <img src="./img/ARKS.jpeg" class="left-pic">
+    <figcaption style="text-align: center;">Sebastian Marino, Sorcha Mac Manamon, ARKS collaboration</figcaption>
+</figure>
+
+Planetary systems like our Solar System form from dense rotating disks of gas and dust, in which microscopic particles of dust snowball into asteroids, comets and planets over millions of years. Unlike planets that live geographically solitary lives by clearing their own orbits, asteroids and comets live in belts. In our Solar System, we see them in the asteroid belt just beyond the terrestrial planets, and in the even more massive Kuiper belt beyond Neptune. As these bodies within the belt collide with each other over the next billions of years, dust that is released re-populates a disk that may become bright enough for our telescopes to observe. These belts are known as debris disks, the collection of comet-sized bodies and their dust and gas in a planetary system, and the successor disks of the younger protoplanetary disks. 
+
+In the ARKS collaboration, we recently used the [Atacama Large Millimeter Array](https://www.almaobservatory.org/en/home/) in the Atacama desert of Chile to systematically image 24 of these extrasolar comet belts for the first time at an exceptional level of detail. These alien comet belts show a range of configurations, from eerily narrow rings to multiple concentric circles to wide and fluffy doughnuts. We think that these geometries are records of diverse histories among these planetary systems, in which planets and comets tug each other with gravity, celestial bodies reshape each others' orbits and comets smash into each other. Read more from press releases by Caltech, [NRAO](https://public.nrao.edu/news/alma-teenage-new-worlds/) and [ALMA](https://www.almaobservatory.org/en/audiences/alma-reveals-teenage-years-of-new-worlds/).
+
+<br/><br/>
+
 ### [Nov 2025] Press release: [JWST images seven centuries of stellar dust arranged in beautiful nested spirals](https://science.nasa.gov/missions/webb/webb-first-to-show-4-dust-shells-spiraling-apep-limits-long-orbit/)
 <img src="./img/Apep_JWST.jpeg" class="left-pic" style="margin-bottom: 30px;">
 
 Apep consists of two massive stars orbiting each other on a highly elliptical orbit. 
 <!-- Both stars belong to a rare class of objects known as Wolf-Rayet stars, shedding large amounts of mass in the form of stellar winds. -->
 Every two hundred years, they approach each other and spend a few decades in such proximity that their powerful stellar winds collide, launching fireworks of dust that bloom and grow in slow motion in the infrared night sky. 
-This was precisely what the James Webb Space Telescope recently captured, except the telescope's infrared vision was so sharp that it could see the fading flecks of light from the past seven centuries of this spectacle that would otherwise have dissolved into darkness. 
+This was precisely what the [James Webb Space Telescope](https://science.nasa.gov/mission/webb/) recently captured, except the telescope's infrared vision was so sharp that it could see the fading flecks of light from the past seven centuries of this spectacle that would otherwise have dissolved into darkness. 
 
 <figure class="float-left" style="width: 240px; margin-bottom: 10px;">
     <iframe width="240" height="150" src="https://www.youtube.com/embed/fITdexBNfkQ" class="left-pic"> </iframe>
