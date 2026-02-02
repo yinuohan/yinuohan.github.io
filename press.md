@@ -7,7 +7,7 @@ slug: /press
 
 ## Press
 
-### [Jan 2026] Press release: [Extrasolar comet belts imaged at unprecedented detail](https://public.nrao.edu/news/alma-teenage-new-worlds/)
+### [Jan 2026] Press release: [Extrasolar comet belts imaged at unprecedented detail](https://www.caltech.edu/about/news/dusty-disks-around-stars-reveal-diversity-of-planetary-systems-in-their-teenage-years)
 <figure class="float-left" style="width: 240px; margin-bottom: 10px;">
     <img src="./img/ARKS.jpeg" class="left-pic">
     <figcaption style="text-align: center;">Sebastian Marino, Sorcha Mac Manamon, ARKS collaboration</figcaption>
@@ -15,7 +15,7 @@ slug: /press
 
 Planetary systems like our Solar System form from dense rotating disks of gas and dust, in which microscopic particles of dust snowball into asteroids, comets and planets over millions of years. Unlike planets that live geographically solitary lives by clearing their own orbits, asteroids and comets live in belts. In our Solar System, we see them in the asteroid belt just beyond the terrestrial planets, and in the even more massive Kuiper belt beyond Neptune. As these bodies within the belt collide with each other over the next billions of years, dust that is released re-populates a disk that may become bright enough for our telescopes to observe. These belts are known as debris disks, the collection of comet-sized bodies and their dust and gas in a planetary system, and the successor disks of the younger protoplanetary disks. 
 
-In the ARKS collaboration, we recently used the [Atacama Large Millimeter Array](https://www.almaobservatory.org/en/home/) in the Atacama desert of Chile to systematically image 24 of these extrasolar comet belts for the first time at an exceptional level of detail. These alien comet belts show a range of configurations, from eerily narrow rings to multiple concentric circles to wide and fluffy doughnuts. We think that these geometries are records of diverse histories among these planetary systems, in which planets and comets tug each other with gravity, celestial bodies reshape each others' orbits and comets smash into each other. Read more from press releases by Caltech, [NRAO](https://public.nrao.edu/news/alma-teenage-new-worlds/) and [ALMA](https://www.almaobservatory.org/en/audiences/alma-reveals-teenage-years-of-new-worlds/).
+In the ARKS collaboration, we recently used the [Atacama Large Millimeter Array](https://www.almaobservatory.org/en/home/) in the Atacama desert of Chile to systematically image 24 of these extrasolar comet belts for the first time at an exceptional level of detail. These alien comet belts show a range of configurations, from eerily narrow rings to multiple concentric circles to wide and fluffy doughnuts. We think that these geometries are records of diverse histories among these planetary systems, in which planets and comets tug each other with gravity, celestial bodies reshape each others' orbits and comets smash into each other. Read more from press releases by [Caltech](https://www.caltech.edu/about/news/dusty-disks-around-stars-reveal-diversity-of-planetary-systems-in-their-teenage-years), [NRAO](https://public.nrao.edu/news/alma-teenage-new-worlds/) and [ALMA](https://www.almaobservatory.org/en/audiences/alma-reveals-teenage-years-of-new-worlds/).
 
 <br/><br/>
 
