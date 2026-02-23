@@ -23,6 +23,13 @@ Publications are also available for download via the links below.
 Y. Han *et al.*
 <br/><br/>
 
+<img src="../publications/Wu-2026-icon.png" class="paper-icon-rectangle"/>
+
+### [Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2026.pdf)
+*The Astrophysical Journal* (2026)\
+D. Wu, Y. Han *et al.*
+<br/><br/>
+
 <img src="../publications/Marino-2026-icon.png" class="paper-icon"/>
 
 ### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) I. Motivation, sample, data reduction, and results overview](../publications/Marino-2026.pdf)
@@ -91,13 +98,6 @@ P. Weber *et al.*
 ### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) X. Interpreting the peculiar dust rings around HD 131835](../publications/Jankovic-2026.pdf)
 *Astronomy & Astrophysics* (2026)\
 M. R. Jankovic *et al.*
-<br/><br/>
-
-<img src="../publications/Wu-2025-icon.png" class="paper-icon-rectangle"/>
-
-### [*[In press]* Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2025.pdf)
-*The Astrophysical Journal* (2025)\
-D. Wu, Y. Han *et al.*
 <br/><br/>
 
 <img src="../publications/Han-2025b-icon.png" class="paper-icon"/>

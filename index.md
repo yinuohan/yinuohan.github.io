@@ -24,9 +24,11 @@ Both planetary systems and evolved stars can create dusty environments due to a 
 
 ## News
 
+[Feb 2026] [NRAO](https://public.nrao.edu/news/a-quintillion-to-one-giant-stars-tiny-dust/) press release on *very* tiny dust grains probed by JWST and ALMA, from Donglin Wu's summer research
+
 [Jan 2026] A big fluffy doughnut...[of planetesimals](./pages/gam-oph-jwst)
 
-[Jan 2026] Debris disks at high resolution -- [ARKS](https://arkslp.org) results now [available](https://public.nrao.edu/news/alma-teenage-new-worlds/)!
+[Jan 2026] Debris disks at high resolution -- [ARKS](https://arkslp.org) results now available! See press releases from [NRAO](https://public.nrao.edu/news/alma-teenage-new-worlds/), [Caltech](https://www.caltech.edu/about/news/dusty-disks-around-stars-reveal-diversity-of-planetary-systems-in-their-teenage-years).
 
 [Nov 2025] [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap251124.html)
 
