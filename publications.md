@@ -23,7 +23,7 @@ Publications are also available for download via the links below.
 Y. Han *et al.*
 <br/><br/>
 
-<img src="../publications/Wu-2026-icon.png" class="paper-icon-rectangle"/>
+<img src="../publications/Han-2026b-icon.png" class="paper-icon"/>
 
 ### [*[In review]* A radially broad collisional cascade in the debris disk of γ Ophiuchi observed by JWST](../publications/Han-2026b.pdf)
 *The Astrophysical Journal* (2026)\
