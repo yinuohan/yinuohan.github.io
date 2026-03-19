@@ -6,7 +6,7 @@ slug: /
 
 ## Home page
 
-Welcome to my research home page, which outlines some of my research interests and recent projects. 
+Welcome to my research home page. 
 
 I work primarily on planetary astrophysics. Current topics of interest mostly work towards understanding the past and ongoing evolution of planetary systems similar to our Solar System, and how stars eject dust towards the end of their evolution and replenish material in their neighbourhood, which may go on to form and influence a new generation of stars and planets. You are welcome to explore this website and [read more](./science) about my work. 
 
