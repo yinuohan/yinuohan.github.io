@@ -16,17 +16,17 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
-<img src="../publications/Han-2026c-icon.png" class="paper-icon"/>
-
-### [*[In review]* The multi-wavelength vertical structure of the archetypal 𝛽 Pictoris debris disk](../publications/Han-2026c.pdf)
-*Astronomy & Astrophysics* (2026)\
-Y. Han *et al.*
-<br/><br/>
-
 <img src="../publications/Han-2026b-icon.png" class="paper-icon"/>
 
 ### [*[In review]* A radially broad collisional cascade in the debris disk of γ Ophiuchi observed by JWST](../publications/Han-2026b.pdf)
 *The Astrophysical Journal* (2026)\
+Y. Han *et al.*
+<br/><br/>
+
+<img src="../publications/Han-2026c-icon.png" class="paper-icon"/>
+
+### [*[In press]* The multi-wavelength vertical structure of the archetypal 𝛽 Pictoris debris disk](../publications/Han-2026c.pdf)
+*Astronomy & Astrophysics* (2026)\
 Y. Han *et al.*
 <br/><br/>
 

@@ -6,6 +6,12 @@ slug: /people
 
 ## Student collaborators
 
+**Colin Smith**\
+Summer research at Caltech in 2026. <!-- Currently studying for an undergraduate degree at Yale University.  -->
+
+**Zihua Rong**\
+Summer research at Caltech in 2026. <!-- Currently studying for an undergraduate degree at Yale University.  -->
+
 **Donglin Wu**\
 Summer research at Caltech in 2025. <!-- Currently studying for an undergraduate degree at Yale University.  -->
 
