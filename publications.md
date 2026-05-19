@@ -30,6 +30,20 @@ Y. Han *et al.*
 Y. Han *et al.*
 <br/><br/>
 
+<img src="../publications/Olofsson-2026-icon.png" class="paper-icon"/>
+
+### [*[In press]* The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) XI: Gas-dust interactions and radial offsets between micron and millimetre-sized grains](../publications/Olofsson-2026.pdf)
+*Astronomy & Astrophysics* (2026)\
+J. Olofsson *et al.*
+<br/><br/>
+
+<img src="../publications/Chiang-2026-icon.png" class="paper-icon"/>
+
+### [*[In review]* Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)](../publications/Chiang-2026.pdf)
+*The Astrophysical Journal* (2026)\
+E. Chiang *et al.*
+<br/><br/>
+
 <img src="../publications/Wu-2026-icon.png" class="paper-icon-rectangle"/>
 
 ### [Constraining properties of dust formed in Wolf-Rayet binary WR 112 using mid-infrared and millimeter observations](../publications/Wu-2026.pdf)
