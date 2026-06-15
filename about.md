@@ -16,7 +16,7 @@ My research mainly intersects with the study of extrasolar planetary systems and
 
 I image and model dust produced by massive stars to understand the mechanisms by which dust is replenished in the interstellar medium. The dust produced by these most massive of binary stars could trace intricate structures in the form of spirals, the detailed geometry of which reveals the physics of stellar wind interactions hidden within the core of these distant systems, and how this dust goes on to influence its environment and planet formation within its vicinity. 
 
-I am currently supported by a Barr Fellowship at Caltech. Prior to this, I completed my PhD at the University of Cambridge on [debris disks](https://www.repository.cam.ac.uk/items/048f54d8-b840-4875-b3ee-5a4199ab706c), where I was advised by Mark Wyatt and funded by a [Gates Cambridge Scholarship](https://www.gatescambridge.org). You can view my CV [here](../CV/CV.pdf). <!-- If you believe I may be a good fit for your department and would consider offering me a job, please feel free to get in touch. -->
+I am currently supported by a Barr Fellowship at Caltech. Prior to this, I completed my PhD at the University of Cambridge on [debris disks](https://www.repository.cam.ac.uk/items/048f54d8-b840-4875-b3ee-5a4199ab706c), where I was advised by Mark Wyatt and supported by a [Gates Cambridge Scholarship](https://www.gatescambridge.org). You can view my CV [here](../CV/CV.pdf). <!-- If you believe I may be a good fit for your department and would consider offering me a job, please feel free to get in touch. -->
 <br/><br/>
 
 ## Contact details
