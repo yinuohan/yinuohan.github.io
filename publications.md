@@ -32,7 +32,7 @@ Y. Han *et al.*
 
 <img src="../publications/Olofsson-2026-icon.png" class="paper-icon"/>
 
-### [*[In press]* The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) XI: Gas-dust interactions and radial offsets between micron and millimetre-sized grains](../publications/Olofsson-2026.pdf)
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) XI: Gas-dust interactions and radial offsets between micron and millimetre-sized grains](../publications/Olofsson-2026.pdf)
 *Astronomy & Astrophysics* (2026)\
 J. Olofsson *et al.*
 <br/><br/>
