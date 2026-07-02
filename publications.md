@@ -25,7 +25,7 @@ Y. Han *et al.*
 
 <img src="../publications/Han-2026c-icon.png" class="paper-icon"/>
 
-### [*[In press]* The multi-wavelength vertical structure of the archetypal 𝛽 Pictoris debris disk](../publications/Han-2026c.pdf)
+### [The multi-wavelength vertical structure of the archetypal 𝛽 Pictoris debris disk](../publications/Han-2026c.pdf)
 *Astronomy & Astrophysics* (2026)\
 Y. Han *et al.*
 <br/><br/>
