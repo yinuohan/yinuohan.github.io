@@ -39,7 +39,7 @@ J. Olofsson *et al.*
 
 <img src="../publications/Chiang-2026-icon.png" class="paper-icon"/>
 
-### [*[In review]* Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)](../publications/Chiang-2026.pdf)
+### [*[In press]* Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)](../publications/Chiang-2026.pdf)
 *The Astrophysical Journal* (2026)\
 E. Chiang *et al.*
 <br/><br/>
