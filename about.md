@@ -3,14 +3,14 @@ layout: home
 title: About
 slug: /about
 profile_picture:
-  src: /about/3.jpg
+  src: /about/4.jpg
   alt: website picture
 ---
 
 
 ## About
 
-Thank you for visiting my research website. 
+<!-- Thank you for visiting my research website. -->
 
 My research mainly intersects with the study of extrasolar planetary systems and stars. I study the formation and evolution of planetary systems by way of imaging and modelling extrasolar belts of planetesimals, which are generally known as debris disks. These belts, like the asteroid belt and Kuiper belt in the Solar system, encode clues for when, where and how solid bodies like planets and planetesimals formed and subsequently dynamically evolved. 
 
