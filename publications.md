@@ -16,6 +16,13 @@ Accompanying code is available on [GitHub](https://github.com/yinuohan).
 Publications are also available for download via the links below. 
 <br/><br/>
 
+<img src="../publications/Han-2026d-icon.png" class="paper-icon"/>
+
+### [Substructure evolution from protoplanetary to debris disks driven by mutually gravitating planetesimals and implications on Kepler resonances and free-floating planets](../publications/Han-2026d.pdf)
+*Submitted to the Astrophysical Journal* (2026)\
+Y. Han, K. Batygin, F. Dai
+<br/><br/>
+
 <img src="../publications/Han-2026b-icon.png" class="paper-icon"/>
 
 ### [A radially broad collisional cascade in the debris disk of γ Ophiuchi observed by JWST](../publications/Han-2026b.pdf)

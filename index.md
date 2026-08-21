@@ -15,8 +15,10 @@ Both planetary systems and stars can create dusty environments due to a range of
 <!-- Students who are interested in [collaborating](./people) are welcome to get in touch. -->
 
 <div>
-    <img src="./img/Collage.png" class="home-pic" style="height: 180px; margin-right: 10px;">
-    <img src="./img/nospf_example.png" class="home-pic" style="height: 180px; margin-right: 10px;">
+    <!-- <img src="./img/Collage.png" class="home-pic" style="height: 180px; margin-right: 10px;"> -->
+    <img src="./img/Apep_JWST.jpeg" class="home-pic" style="height: 180px; margin-right: 10px;">
+    <img src="./img/GamOphColour.png" class="home-pic" style="height: 180px; margin-right: 10px;">
+    <!-- <img src="./img/nospf_example.png" class="home-pic" style="height: 180px; margin-right: 10px;"> -->
     <img src="./img/WR112_slow.gif" class="home-pic" style="height: 180px;">
 </div>
 
