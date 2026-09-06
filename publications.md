@@ -23,6 +23,13 @@ Publications are also available for download via the links below.
 Y. Han, K. Batygin, F. Dai
 <br/><br/>
 
+<img src="../publications/Chiang-2026-icon.png" class="paper-icon"/>
+
+### [Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)](../publications/Chiang-2026.pdf)
+*The Astrophysical Journal* (2026)\
+E. Chiang *et al.*
+<br/><br/>
+
 <img src="../publications/Han-2026b-icon.png" class="paper-icon"/>
 
 ### [A radially broad collisional cascade in the debris disk of γ Ophiuchi observed by JWST](../publications/Han-2026b.pdf)
@@ -42,13 +49,6 @@ Y. Han *et al.*
 ### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) XI: Gas-dust interactions and radial offsets between micron and millimetre-sized grains](../publications/Olofsson-2026.pdf)
 *Astronomy & Astrophysics* (2026)\
 J. Olofsson *et al.*
-<br/><br/>
-
-<img src="../publications/Chiang-2026-icon.png" class="paper-icon"/>
-
-### [*[In press]* Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)](../publications/Chiang-2026.pdf)
-*The Astrophysical Journal* (2026)\
-E. Chiang *et al.*
 <br/><br/>
 
 <img src="../publications/Wu-2026-icon.png" class="paper-icon-rectangle"/>
