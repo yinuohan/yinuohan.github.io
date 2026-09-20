@@ -12,7 +12,7 @@ profile_picture:
 
 <!-- Thank you for visiting my research website. -->
 
-My research mainly intersects with the study of extrasolar planetary systems and stars. I study the formation and evolution of planetary systems by way of imaging and modelling extrasolar belts of planetesimals, which are generally known as debris disks. These belts, like the asteroid belt and Kuiper belt in the Solar system, encode clues for when, where and how solid bodies like planets and planetesimals formed and subsequently dynamically evolved. 
+My research mainly intersects with the study of extrasolar planetary systems and stars. I study the formation and evolution of planetary systems by way of imaging and modelling extrasolar belts of planetesimals, which are generally known as debris disks. These belts, like the asteroid belt and Kuiper belt in the Solar system, encode clues for when, where and how solid bodies like planets and planetesimals formed, and how the planetesimal disk shapes the evolution of the orbits and composition within the planetary system. 
 
 I image and model dust produced by massive stars to understand the mechanisms by which dust is replenished in the interstellar medium. The dust produced by these most massive of binary stars could trace intricate structures in the form of spirals, the detailed geometry of which reveals the physics of stellar wind interactions hidden within the core of these distant systems, and how this dust goes on to influence its environment and planet formation within its vicinity. 
 

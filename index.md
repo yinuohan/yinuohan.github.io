@@ -10,7 +10,7 @@ Welcome to my research home page.
 
 I work primarily on planetary astrophysics. Current topics of interest mostly work towards understanding the past and ongoing evolution of planetary systems similar to our Solar System, and how stars eject dust towards the end of their evolution and replenish material in their neighbourhood, which may go on to form and influence a new generation of stars and planets. You are welcome to explore this website and [read more](./science) about my work. 
 
-Both planetary systems and stars can create dusty environments due to a range of astrophysical processes, which we can [image](./press) with observatories that offer sufficiently high spatial resolution and sensitivity at the appropriate wavelength. You can read more about how we interpret these images in corresponding publications available for download [here](./publications). 
+Both planetary systems and stars can create dusty environments due to a range of astrophysical processes, which we can [image](./press) with observatories operating at a range of different wavelengths across the electromagnetic spectrum. You can read more about how we interpret these observations and develop theories in corresponding publications available for download [here](./publications). 
 
 <!-- Students who are interested in [collaborating](./people) are welcome to get in touch. -->
 
