@@ -4,34 +4,68 @@ title: Science
 slug: /science
 ---
 
-## Planetary systems and their formation
+## Planetary systems and their formation history
 <figure class="float-right" style="width: 300px;">
-  <img src="./img/planets.png" style="margin-bottom: 10px;">
+  <img src="./img/planets_ARKS.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">A classic plot showing the mass and radius of planets that have been detected in other Solar Systems</figcaption>
 </figure>
 
 One of the most notable discoveries of modern astronomy is that planetary systems are ubiquitously found around stars. Many of them host components that are familiar to us in the Solar System, with each star on average thought to host (at least) a planet, and a fifth of stars (or more) hosting detectable belts of comets. The great diversity among how planetary systems are configured motivates much of the work that follow here, which aims to understand how they form and evolved to their present state, and how they will continue to evolve into the future.  
 
+To zeroth order, we know that gas and dust of interstellar origin (in the giant molecular cloud) collapses into young stars, each eventually surrounded by a protoplanetary disk. Some of this dust grows via sticking, and gravitational collapse assisted by gas, to form planetesimals; some of these planetesimals subsequently grow into terrestrial and giant planets; and the rest of the dust and gas mostly gets accreted by the star or dissipate back into the interstellar medium. 
+
 <figure class="float-left" style="width: 300px;">
   <img src="./img/ARKS.jpeg" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Belts of planetesimals/comets in other Solar Systems from the <a href="https://arkslp.org">ARKS program</a></figcaption>
 </figure>
-
-Part of my work focuses on the study of extrasolar belts of planetesimals, which are analogous to the Solar System's Kuiper Belt from where many of our comets usually reside. These belts are known as *debris disks*, although to be technical, debris disks could also include analogues of the Solar System's asteroid belt and zodiacal dust found in the inner regions of a planetary system. Outer debris disks are almost the only component of extrasolar planetary systems that we can robustly and consistently resolve in images, and their structure, e.g., ring width, vertical thickness, number of rings, location of gaps, sharpness of edges, eccentricities and asymmetries...provide clues on any dynamical events that the planetary system may have gone through as it formed. 
-
-The [ALMA observatory](https://www.eso.org/public/teles-instr/alma/) recently imaged two dozen debris disks as part of a survey named ARKS, revealing their high resolution structure for a sizeable sample for the first time. I am currently analysing the wide variety of configurations seen across these observations, from the eerily narrow rings to the multiple concentric rings. Overall individual rings in debrs disks seem a lot more similar than we previously thought to the dust rings in young disks of gas and dust (i.e., *protoplanetary disks*) from which planets and the central star form. The increasing sample of observations is also enabling us to study the demographics of debris disks by comparing their resolved structure to each other. [Han *et al.* 2025a](./publications/Han-2025a.pdf) found that the distribution of planetesimals could continue to evolve with age following their formation, possibly becoming broader with time. Whether this could reflect the gravitational influence of hidden planets or dynamical evolution intrinsic to the disk is a subject of ongoing investigation.
+Part of my work focuses on the study of these belts of planetesimals that form but did not become part of planet, analogous to the Solar System's Kuiper Belt from which many of our comets originate. These belts are known as *debris disks*, although to be technical, debris disks often also include analogues of the Solar System's asteroid belt and zodiacal dust found in the inner regions of a planetary system. Debris disks are effectively the only component of extrasolar planetary systems that we can consistently resolve in images, and their structure, e.g., ring width, vertical thickness, number of rings, location of gaps, sharpness of edges, eccentricities and asymmetries...encode dynamical events that the planetary system may have gone through as it formed. There are many questions fundamental to the planet formation story that we are interested in understanding. For example, how much mass ends up as planetesimals in the debris disk, and how does this compare to the solid mass of planets? When (or where) do you form a planet, and when do you form a planetesimal belt? And what does the resolved structure of debris disks tell us about any hidden planets we are unable to detect, and how planet may have migrated in the past? 
 <br/><br/>
 
 
-## Debris disk dynamics
-The structure of debris disks tells us about the dynamical state of the system and any potentially hidden planets which may be perturbing the disk. An often invoked example is the way gaps in debris disks could be carved by planets, which could range from a few Neptunes to a few Jupiters in mass at a few tens of astronomical units based on the kind of radial gaps that we observe. 
+## Imaging debris disks at high resolution
+<figure class="float-right" style="width: 300px;">
+  <img src="./img/GamOphColour.png" style="margin-bottom: 10px;">
+  <figcaption style="text-align: center;">A JWST image of the debris disk of γ Oph combined from 15 and 25 micron filters, <a href="./publications/Han-2026b.pdf">Han <i>et al.</i> 2026b</a></figcaption>
+</figure>
+
+The [ALMA observatory](https://www.eso.org/public/teles-instr/alma/) recently imaged two dozen debris disks as part of a survey called [ARKS](https://arkslp.org) (see image in previous section), revealing their high resolution structure across a sizeable sample for the first time. A notable diversity of structures is seen across these observations, from the eerily narrow rings to the multiple concentric rings. Overall individual rings in debris disks seem a lot more similar than we previously thought to rings in young protoplanetary disks of gas and dust from which planets form, but many debris disks are still radially too wide to have directly inherited their structure from protoplanetary disks. [Han *et al.* 2025a](./publications/Han-2025a.pdf) and [Han *et al.* 2026](./publications/Han-2026.pdf) investigated how the distribution of planetesimals could continue to evolve with age following their formation, possibly becoming broader with time based on observations. Whether this reflect primarily the gravitational influence of hidden planets or dynamical evolution intrinsic to the disk is a subject of ongoing investigation.
+
+At shorter wavelengths, observations are sensitive to smaller dust grains that are moved around by stellar radiation from their initial site of production in the belt of planetesimals ([Sommer *et al.* 2025a](./publications/Sommer-2025.pdf)). Even in the absence of radiative forces like radiation pressure and Poynting-Robertson drag, the warmer temperature of inner regions make dust glow even brighter relative to the outer regions when observed by JWST's mid-infrared camera, MIRI. The debris disk image above may look smooth, but it is in fact asymmetric. We can use this asymmetry to infer what kind of planets could be perturbing the disk and direct future observations to search for such a planet. 
+<br/><br/>
+
+
+## Evolution of disk substructures
+<figure class="float-left" style="width: 330px;">
+  <img src="./img/Equipartition.jpg" style="margin-bottom: 10px;">
+  <figcaption style="text-align: center;">A potential evolutionary trajectory of ringed substructures from protoplanetary to debris disks, <a href="./publications/Han-2026d.pdf">Han <i>et al.</i> 2026d</a></figcaption>
+</figure>
+Debris disks themselves evolve in time, and playing this evolution back in time can allow us to compare debris disks at their time of formation to the structure of protoplantary disks from which they form, which in turn helps us better understand where and how planetesimals formed. 
+
+One of the main ways that a ring of planetesimals evolve in time is through massive planetesimals mutually deflecting each other. This causes the planetesimal orbits to become increasingly scattered over time, overall in a ring that steadily spreads and becomes radially wider and vertically more puffed up. This spreading, if starting from a thin ring, maintains a characteristic radial width to vertical height ratio, which interestingly most resolved rings in debris disks seem to cluster around. This seems to support the idea that the bulk mass of many of these rings formed in narrow protoplanetary dust rings, where inwardly drifting dust (due to gas drag) are thought to collect at pressure bumps (caused by a variety of possible reasons...) where they rapidly collapse into planetesimals. 
+
+<figure class="float-right" style="width: 330px;">
+  <img src="./img/Mass.jpg" style="margin-bottom: 10px;">
+  <figcaption style="text-align: center;">Constraints on the disk mass times individual planetesimal mass in debris disk rings, <a href="./publications/Han-2026d.pdf">Han <i>et al.</i> 2026d</a></figcaption>
+</figure>
+We can even use the present width of debris rings and their age to estimate how much mass is in the ring, a fundamental quantity that has remained very hard to measure: we can see dust produced through the collisions of planetesimals, but not the planetesimal itself, which holds most of the mass. But unfortunately, here we can only measure a pseudo-mass--the mass of the disk times the mass of an individual planetesimal in the disk. Nonetheless, this is an enlightening quantity to know. In fact, this pseudo-mass seems to be bigger the more massive the host star is, much like what we know about the prevalence of giant planets. So maybe this fits within the simple narrative that more massive stars (up to a certain extent...) host more massive protoplanetary disks, which form more planetesimals quickly enough, which makes it more likely for them to grow big enough to accrete gas and become giant planets. 
+This is maybe a satisfactory story to first order, but it is likely not the full picture. I would encourage more work in this area. 
+<br/><br/>
+
+
+## Dynamics of debris disks and planets
+The structure of debris disks tells us about any potentially hidden planets which may be perturbing the disk. An often invoked example is the way gaps in debris disks could be carved by planets, which could range from a few Neptunes to a few Jupiters in mass at a few tens of astronomical units based on the kind of radial gaps that we observe. A population of these planets were inferred based on debris disks in the ARKS program, which are shown on the first plot on this page. 
+
+<figure class="float-left" style="width: 300px;">
+  <img src="./img/GamOphPlanet.png" style="margin-bottom: 10px;">
+  <figcaption style="text-align: center;">Constraints on perturbing planets capable of causing γ Oph's asymmetry, <a href="./publications/Han-2026b.pdf">Han <i>et al.</i> 2026b</a></figcaption>
+</figure>
+
+Detailed studies of individual disks can often provide insight into its dynamical history. An example is the edge-on debris disk of $$\beta$$ Pic, with the abundance of observations and substructures discovered placing it as an archetypal system. Notably, a vertical warp found in the disk visible from [Hubble Space Telescope](https://hubblesite.org/contents/media/images/2015/06/3490-Image.html) images was used to predict a subsequently confirmed interior planet secularly perturbing the disk. Interestingly, the vertical height of $$\beta$$ Pic varies between smaller dust grains at mid-infrared wavelengths compared to the larger dust grains at millimetre wavelengths, which could be due to radiation pressure that dynamically excites the smaller grains more effectively ([Han *et al.* 2025c](./publications/Han-2025c.pdf)). 
 
 <figure class="float-left" style="width: 300px;">
   <img src="./publications/Han-2023-icon.png" style="margin-bottom: 10px;">
   <figcaption style="text-align: center;">Planet migration scenarios under a mean-motion resonance model for the dust clump in β Pic</figcaption>
 </figure>
-
-Detailed studies of individual disks can often provide insight into its dynamical history. An example is the edge-on debris disk of $$\beta$$ Pic, with the abundance of observations and substructures discovered placing it as an archetypal system. Notably, a vertical warp found in the disk visible from [Hubble Space Telescope](https://hubblesite.org/contents/media/images/2015/06/3490-Image.html) images was used to predict a subsequently confirmed interior planet secularly perturbing the disk. I have recently been examining images of $$\beta$$ Pic at different wavelengths, and find that the vertical height of the disk is larger when observing the smaller dust grains at mid-infrared wavelengths compared to the larger dust grains at millimetre wavelengths, which could be due to radiation pressure that dynamically excites the smaller grains more effectively ([Han *et al.* 2025c]()). 
 
 $$\beta$$ Pic also hosts a large clump of dust and gas on one side of the disk but not the other. If such a clump reflects distributions of planetesimals trapped by mean motion resonance with an unseen planet, we can infer the mass and migration scenario of the planet required to match observational constraints on the dust clump's motion, which we tracked with images that span 12 years in [Han *et al.* 2023](./publications/Han-2023.pdf). More recent images from the [James Webb Space Telescope](https://webbtelescope.org/contents/media/images/2024/101/01HKAHK9XJKKR4MFFSST52K2BY) has uncovered an additional suite of structures that could be due to collisions ([Rebollido *et al.* 2024](https://ui.adsabs.harvard.edu/abs/2024AJ....167...69R/abstract)). Coherently explaining these features is a topic of ongoing work. 
 <br/><br/>

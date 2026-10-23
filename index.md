@@ -8,9 +8,13 @@ slug: /
 
 Welcome to my research home page. 
 
-I work primarily on planetary astrophysics. Current topics of interest mostly work towards understanding the past and ongoing evolution of planetary systems similar to our Solar System, and how stars eject dust towards the end of their evolution and replenish material in their neighbourhood, which may go on to form and influence a new generation of stars and planets. You are welcome to explore this website and [read more](./science) about my work. 
+<!-- I work primarily on planetary astrophysics. Current topics of interest mostly work towards understanding the past and ongoing evolution of planetary systems similar to our Solar System, and how stars eject dust towards the end of their evolution and replenish material in their neighbourhood, which may go on to form and influence a new generation of stars and planets. You are welcome to explore this website and [read more](./science) about my work. -->
 
-Both planetary systems and stars can create dusty environments due to a range of astrophysical processes, which we can [image](./press) with observatories operating at a range of different wavelengths across the electromagnetic spectrum. You can read more about how we interpret these observations and develop theories in corresponding publications available for download [here](./publications). 
+I work primarily on planetary astrophysics. Current topics of interest aim to understand how the diverse array of planetary systems formed and continue to evolve, particularly as revealed by the structure of circumstellar disks which we can now image in great detail. I am also interested the processes by which massive stars eject dust towards the end of their evolution and replenish material in their neighbourhood, which may go on to form and influence a new generation of stars and planets. You are welcome to [read more](./science) about these topics. 
+
+<!-- Both planetary systems and stars can create dusty environments due to a range of astrophysical processes, which we can [image](./press) with observatories operating at a range of different wavelengths across the electromagnetic spectrum. You can read more about how we interpret these observations and develop theories in corresponding publications available for download [here](./publications).  -->
+
+Both planetary systems and stars can create dusty environments, which we can [image](./press) across much of the electromagnetic spectrum. You can read more about how we interpret these observations and develop theories in corresponding publications available for download [here](./publications). 
 
 <!-- Students who are interested in [collaborating](./people) are welcome to get in touch. -->
 
