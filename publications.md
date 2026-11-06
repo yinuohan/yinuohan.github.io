@@ -23,6 +23,13 @@ Publications are also available for download via the links below.
 Y. Han, K. Batygin, F. Dai
 <br/><br/>
 
+<img src="../publications/Jankovic-2026b-icon.png" class="paper-icon-rectangle"/>
+
+### [The ALMA survey to Resolve exoKuiper belt Substructures (ARKS) XII. Constraints on large bodies embedded in discs](../publications/Jankovic-2026b.pdf)
+*Astronomy & Astrophysics, in press* (2026)\
+M. R. Jankovic *et al.*
+<br/><br/>
+
 <img src="../publications/Chiang-2026-icon.png" class="paper-icon"/>
 
 ### [Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)](../publications/Chiang-2026.pdf)
