@@ -6,7 +6,7 @@ slug: /publications
 
 ## Publications
 Links to publications are available from the following databases.
-- [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/nrOT9PNpT-ChnUej8kRIjA)
+- [SciX/ADS](https://scixplorer.org/public-libraries/nrOT9PNpT-ChnUej8kRIjA)
 - [arXiv](https://arxiv.org/a/han_y_2.html)
 - [ORCID](https://orcid.org/0000-0002-2106-0403)
 - [Google Scholar](https://scholar.google.com/citations?user=CDdJTZQAAAAJ)
